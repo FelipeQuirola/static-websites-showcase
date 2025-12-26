@@ -1,34 +1,21 @@
 # 🌐 Static Websites – Showcase
 
-This repository is a **general showcase** of several static websites I have developed using **HTML, CSS, and JavaScript**.  
-These websites are simple, fast, and responsive, built without frameworks, focusing on clean design and functionality.
+This repository is a **general showcase** of static websites I have developed using **HTML, CSS, and JavaScript**.  
+The projects focus on **clean design, performance, responsiveness, and basic automation**, built without frameworks.
 
-> 🔒 No source code is provided here.  
-> 🌐 Live example: [Visa Vacation Experts](https://visavacationexpetrs.com/)
+> 🔒 Source code is not publicly available.  
+> 🌐 **Live example:** [Sermacom](https://sermacom.info/) *(includes a basic chatbot)*
 
 ---
 
 ## ✨ Common Features
-- **Home page** with a clear presentation.  
-- **Services section** to describe offerings.  
-- **Contact form** (basic form submissions / email integration).  
-- **About us** page introducing the organization or purpose.  
-- Fully responsive layouts for desktop and mobile.  
-- Lightweight: pure HTML, CSS, and vanilla JavaScript.  
-
----
-
-## 📸 Screenshots (generic examples)
-
-<p align="center">
-  <img src="assets/screenshots/home.png" width="260" alt="Home page">
-  <img src="assets/screenshots/services.png" width="260" alt="Services section">
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/contact.png" width="260" alt="Contact page">
-  <img src="assets/screenshots/about.png" width="260" alt="About us page">
-</p>
+- **Home page** with clear brand presentation  
+- **Services section** describing offerings  
+- **Contact section** with form and automated assistance  
+- **About us** section presenting the company  
+- **Basic chatbot** for automated responses and user guidance  
+- Fully **responsive design** (desktop, tablet, mobile)  
+- Lightweight and fast: **pure HTML, CSS, and vanilla JavaScript**
 
 ---
 
@@ -36,22 +23,23 @@ These websites are simple, fast, and responsive, built without frameworks, focus
 - **HTML**  
 - **CSS**  
 - **JavaScript (vanilla)**  
+- **Basic chatbot logic** (rule-based / scripted responses)
 
 ---
 
 ## 🚀 Use Cases
-These static websites are ideal for:
-- Small businesses
-- Landing pages
-- Informational sites
-- Quick prototypes
+These websites are ideal for:
+- Small and medium businesses  
+- Corporate presentation websites  
+- Landing pages  
+- Informational and institutional sites with basic automation  
 
 ---
 
 ## 👤 Author
 **Felipe Quirola** — Computer Science Engineering Student (7th semester, EPN)  
-Freelancer · Web pages & mobile apps  
-- 📧 [Email](mailto:fquirola2@gmail.com)
+Freelancer · Web development  
+- 📧 Email: fquirola2@gmail.com
 
 ---
 
